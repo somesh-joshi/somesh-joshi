@@ -1,5 +1,5 @@
 <h2>Hi there, I am somesh 👋</h2>
-<h5>About Me</h5>
+<h3>About Me</h3>
 
 - 🔭 I’m currently working on ... ML Technologies
 - 🌱 I’m currently learning ... DevOps and BlockChain
