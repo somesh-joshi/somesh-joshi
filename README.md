@@ -1,4 +1,4 @@
-### Hi there, I am somesh 👋
+<h2>Hi there, I am somesh 👋</h2>
 <a href="http://someshjoshi.rf.gd/?i=1">About Me</a>
 
 - 🔭 I’m currently working on ... ML Technologies
