@@ -1,7 +1,7 @@
 ### Hi there, I am somesh 👋
 
 - 🔭 I’m currently working on ... ML Technologies
-- 🌱 I’m currently learning ... DevOps
+- 🌱 I’m currently learning ... DevOps and BlockChain
 - 👯 I’m looking to collaborate on ... DevOps or BlockChain Projects
 - 🤔 I’m looking for help with ... BlockChain
 - 💬 Ask me about ... Nodejs, Reactjs.
