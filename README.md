@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... DevOps or BlockChain Projects
 - 🤔 I’m looking for help with ... BlockChain
 - 💬 Ask me about ... Nodejs, Reactjs.
-- 📫 How to reach me: ... <a href="someshjoshi890@gmail.com">Mail me</a>
+- 📫 How to reach me: ... <a href="mailto:someshjoshi890@gmail.com">Mail me</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
