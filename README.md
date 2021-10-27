@@ -1,5 +1,5 @@
 ### Hi there, I am somesh 👋
-<a href="http://someshjoshi.rf.gd/?i=1">profile</a>
+<a href="http://someshjoshi.rf.gd/?i=1">About Me</a>
 
 - 🔭 I’m currently working on ... ML Technologies
 - 🌱 I’m currently learning ... DevOps and BlockChain
