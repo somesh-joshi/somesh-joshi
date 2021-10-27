@@ -6,6 +6,4 @@
 - 🤔 I’m looking for help with ... BlockChain
 - 💬 Ask me about ... Nodejs, Reactjs.
 - 📫 How to reach me: ... <a href="mailto:someshjoshi890@gmail.com">Mail me</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
