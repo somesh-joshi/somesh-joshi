@@ -1,6 +1,6 @@
-<h2>Hi there, I am somesh 👋</h2>
-<h3>About Me</h3>
-
+<h1>Hi there, I am somesh 👋</h1>
+<h2>About Me</h2>
+<hr>
 - 🔭 I’m currently working on ... ML Technologies
 - 🌱 I’m currently learning ... DevOps and BlockChain
 - 👯 I’m looking to collaborate on ... DevOps or BlockChain Projects
