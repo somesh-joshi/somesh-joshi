@@ -10,3 +10,8 @@
 - 📃 My Portfolio and Resume ... <a href="http://someshjoshi.rf.gd/?i=1">Take a Look</a>
 -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somesh-joshi&theme=github)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=somesh-joshi&column=7&theme=onedark" />
+</div>
+
