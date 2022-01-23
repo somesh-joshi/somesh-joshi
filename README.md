@@ -15,7 +15,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=somesh-joshi&column=7&theme=onedark" />
 </div>
 
+<div>
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=somesh-joshi&show_icons=true&theme=radical)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=somesh-joshi&show_icons=true&theme=radical)
-
+</div>
