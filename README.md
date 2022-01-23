@@ -1,4 +1,4 @@
-<h1>hi to all, I am Somesh Joshi👋🏻👋🏻👋🏻</h1><hr>
+<h1>hi there, I am Somesh Joshi👋🏻👋🏻👋🏻</h1>
 <h3>About Me</h3>
 
 - 🔭 I’m currently working on ... ML Technologies
