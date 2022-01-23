@@ -20,3 +20,4 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=somesh-joshi&show_icons=true&theme=radical)
 
+[![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)](https://badges.pufler.dev)
