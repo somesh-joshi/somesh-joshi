@@ -9,3 +9,4 @@
 - 📫 How to reach me: ... <a href="mailto:someshjoshi890@gmail.com">Mail me</a>
 - 📃 My Portfolio and Resume ... <a href="http://someshjoshi.rf.gd/?i=1">Take a Look</a>
 -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=somesh-joshi&theme=github)
