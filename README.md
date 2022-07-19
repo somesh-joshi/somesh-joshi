@@ -5,10 +5,10 @@
 <h3>About Me</h3>
 
 - 🔭 I’m currently working on ... ML Technologies
-- 🌱 I’m currently learning ... DevOps and BlockChain
+- 🌱 I’m currently learning ... BlockChain
 - 👯 I’m looking to collaborate on ... DevOps or BlockChain Projects
 - 🤔 I’m looking for help with ... BlockChain
-- 💬 Ask me about ... Nodejs, Reactjs, Nextjs, RESTAPIs, GraphQL, Mongodb.
+- 💬 Ask me about ... Nodejs, Reactjs, Nextjs, RESTAPIs, GraphQL, Mongodb, .NET
 - 📫 How to reach me: ... <a href="mailto:someshjoshi890@gmail.com">Mail me</a>
 - 📃 My Portfolio and Resume ... <a href="https://somesh-joshi.github.io/profile/">Take a Look</a>
 -->
